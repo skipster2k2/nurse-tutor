@@ -28,7 +28,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/logo.png
+    image: logo.png
     link: /
     # Default width/height. Uncomment if you need to change
     width: 50
@@ -52,13 +52,13 @@ params:
   - title: Services
     sublinks:
     - title: International Nurses OSCE
-      url: /services/international_nurses
+      url: /nurse-tutor/services/international_nurses
     - title: BSc and NMC Nursing
-      url: /services/academic_tutoring
+      url: /nurse-tutor/services/academic_tutoring
     - title: Career mentorship
-      url: /services/career_mentorship
+      url: services/career_mentorship
   - title: Blog
-    url: /blog
+    url: blog
 #  - title: Log in
 #    url: /
 #  - title: Sign up
@@ -181,11 +181,11 @@ params:
         title: "Services"
         links:
         - text: International Nurse NMC OSCE preperation
-          link: /services/international_nurses
+          link: services/international_nurses
         - text: BSc and NMC Tutoring
-          link: /services/academic_tutoring
+          link: services/academic_tutoring
         - text: Career Mentorship
-          link: /services/career_mentorship
+          link: services/career_mentorship
       column2:
         title: "About us"
         links:
@@ -199,4 +199,4 @@ params:
         title: "Blog"
         links: 
         - text: Latest news
-          link: /blog/first
+          link: blog/first
