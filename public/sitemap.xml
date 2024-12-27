@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/services/academic_tutoring/</loc>
+    <loc>http://something-fresh.org/services/academic_tutoring/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/career_mentorship/</loc>
+    <loc>http://something-fresh.org/services/career_mentorship/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://something-fresh.org/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/international_nurses/</loc>
+    <loc>http://something-fresh.org/services/international_nurses/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>http://something-fresh.org/services/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url>
 </urlset>
