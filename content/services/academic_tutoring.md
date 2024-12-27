@@ -8,9 +8,9 @@ Bringing a wealth of experience in university education, I have supported studen
 
 My teaching philosophy focuses on creating a supportive and inclusive learning atmosphere that encourages individuals to pursue nursing careers. In 2023, I was honored to receive a nomination from my students and reach the final stages of consideration for the esteemed Student Nursing Times University Educator of the Year award.
 
-{{% title3 "Services" %}}
+## Services
 
-{{% title4 "Professional Online and In-person Tutoring Services" %}} 
+### Professional Online and In-person Tutoring Services
 
 One-on-one sessions tailored to address your specific academic requirements. Whether you need support for a resubmission or aim to enhance your grades and boost your confidence, we've got you covered.
 
