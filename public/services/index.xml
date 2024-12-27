@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Hugo Fresh Theme</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Hugo Fresh Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BSc and MSc Academic Tutoring</title>
+      <link>http://localhost:1313/services/academic_tutoring/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/academic_tutoring/</guid>
+      <description>&lt;p&gt;Bringing a wealth of experience in university education, I have supported students across various nursing programs, offering guidance in both practical placements and academic theory. Personalised tutoring plays a crucial role in improving academic writing skills, and aiding students in reaching their desired grades.&lt;/p&gt;&#xA;&lt;p&gt;My teaching philosophy focuses on creating a supportive and inclusive learning atmosphere that encourages individuals to pursue nursing careers. In 2023, I was honored to receive a nomination from my students and reach the final stages of consideration for the esteemed Student Nursing Times University Educator of the Year award.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Career mentorship</title>
+      <link>http://localhost:1313/services/career_mentorship/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/career_mentorship/</guid>
+      <description>&lt;p&gt;Upon completing your NMC registration successfully, the journey to landing your new job begins. It&amp;rsquo;s essential to focus on being shortlisted and excelling in your interview. The nursing job market in the UK is increasingly competitive, and securing a position is not always guaranteed. With experience interviewing registered nurses as an intensive care sister, I understand what qualities make a candidate successful.&lt;/p&gt;&#xA;&lt;p&gt;Standing out amongst the competition requires preparation, confidence, and showcasing your unique skills and experiences. Remember, each interview is an opportunity to demonstrate your value to potential employers and secure your desired nursing position in the UK.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>International nurse NMC OSCE preparation</title>
+      <link>http://localhost:1313/services/international_nurses/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/international_nurses/</guid>
+      <description>&lt;p&gt;With a wealth of experience as an educator and former OSCE program lead, I possess the knowledge and expertise required to support you in successfully passing your NMC OSCE exam.&lt;/p&gt;&#xA;&lt;p&gt;My sessions are customized to suit your schedule, accommodating your work and family commitments.&lt;/p&gt;&#xA;&lt;p&gt;In contrast to large training facilities I provide:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A unique and individualized approach to help you prepare for your OSCE&lt;/li&gt;&#xA;&lt;li&gt;Focus not just on passing the exam but also on developing your knowledge and confidence for UK nursing&lt;/li&gt;&#xA;&lt;li&gt;Training at your convenience without needing to take time off work.&lt;/li&gt;&#xA;&lt;li&gt;No hidden costs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I take pride in teaching you the latest evidence-based theory to assist you in passing the OSCE exam and advancing your career as a UK registered nurse. I am fully invested in your success and will provide ongoing support and mentorship.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
