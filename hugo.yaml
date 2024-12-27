@@ -1,6 +1,6 @@
-baseURL: https://skipster2k2.github.io/nurse-tutor/
-languageCode: en-us
-title: Hugo Fresh Theme
+baseURL: http://skipster2k2.github.io
+languageCode: en-gb
+title: Nurse Tutor
 
 module:
   # uncomment line below for local development of module
