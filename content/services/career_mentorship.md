@@ -14,3 +14,5 @@ Standing out amongst the competition requires preparation, confidence, and showc
 - Interview preparation and practice 
 - Job description  review 
 - Career mentoring and advice
+
+**From £30 per hour**

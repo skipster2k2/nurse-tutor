@@ -42,9 +42,9 @@ params:
     # Hero subtitle (optional)
     subtitle: Bespoke, professional and experienced tutoring for International Educated Nurses and UK BSc and MSc nursing students.
     # Button text
-    buttontext: Services
+    # buttontext: Services
     # Where the main hero button links to
-    buttonlink: "#"
+    # buttonlink: "#"
     # Hero image (from static/images/___)
     image: Hannah-Profile.png
   # Customizable navbar. For a dropdown, add a "sublinks" list.
@@ -53,7 +53,7 @@ params:
     sublinks:
     - title: International Nurses OSCE
       url: /services/international_nurses
-    - title: BSc and NMC Nursing
+    - title: BSc and MSc Nursing
       url: /services/academic_tutoring
     - title: Career mentorship
       url: /services/career_mentorship
@@ -104,17 +104,17 @@ params:
     tiles:
     - title: OSCE preperation
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
+      text: Bespoke one to one tutoring online or in person
       url: /services/international_nurses
       buttonText: Find out more
-    - title: BSc & NMC tutoring
+    - title: BSc & MSc tutoring
       icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
+      text: Academic study skills for BSc and MSc students
       url: /services/academic_tutoring
       buttonText: Find out more
     - title: Career mentorship
       icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      text: CV writing and interview preparation
       url: /services/career_mentorship
       buttonText: Find out more
 #  section2:
@@ -163,12 +163,14 @@ params:
       # Icons are from Font Awesome
     - link: mailto:hannahlames@outlook.com
       icon: envelope
-    - link: https://facebook.com/#
+    - link: https://facebook.com/nursetutortutoringwithhannah
       icon: facebook
-    - link: https://linkedin.com/
+    - link: https://linkedin.com/hannah-ames-99892b299
       icon: linkedin
-    - link: https://youtube.com
+    - link: https://youtube.com/@HannahAmes24
       icon: youtube
+    - link: https://www.instagram.com/nursetutor_hannah/
+      icon: instagram
     bulmalogo: true
     quicklinks:
       column1:
@@ -176,7 +178,7 @@ params:
         links:
         - text: International Nurse NMC OSCE preperation
           link: services/international_nurses
-        - text: BSc and NMC Tutoring
+        - text: BSc and MSc Tutoring
           link: services/academic_tutoring
         - text: Career Mentorship
           link: services/career_mentorship

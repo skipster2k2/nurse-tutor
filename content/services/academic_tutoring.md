@@ -8,9 +8,10 @@ Bringing a wealth of experience in university education, I have supported studen
 
 My teaching philosophy focuses on creating a supportive and inclusive learning atmosphere that encourages individuals to pursue nursing careers. In 2023, I was honored to receive a nomination from my students and reach the final stages of consideration for the esteemed Student Nursing Times University Educator of the Year award.
 
-## Services
+{{% title3 "Services" %}} 
 
-### Professional Online and In-person Tutoring Services
+
+{{% title3 "Professional Online and In-person Tutoring Services" %}}
 
 One-on-one sessions tailored to address your specific academic requirements. Whether you need support for a resubmission or aim to enhance your grades and boost your confidence, we've got you covered.
 
@@ -22,4 +23,4 @@ One-on-one sessions tailored to address your specific academic requirements. Whe
 - Placement support and learning development plans
 - Effective preparation for anatomy and physiology examinations.
 
-**Hourly rates start at only £25.  Free 30-minute discussion available for all enquires.**
+**Hourly rates start at only £30.  Free 30-minute discussion available for all enquires.**

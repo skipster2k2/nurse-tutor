@@ -30,8 +30,20 @@ Enhance your skills with hands-on practice using the full range of OSCE clinical
 
 All clients who book in-person training receive free OSCE study books and study resources.
 
-Situated on the stunning Devon coast enjoy some time visiting the local area. Local accommodation is available from £30 a night.
+{{% title5 "In person package" %}} 
 
+- 21 hours or 3 days starting at **£575**
+- One to one
+- Hands on practical training with feedback
+- Can be taken together of split into single days.
+- Includes all clinical equipment use 
+- Access to 4 OSCE study books and videos
+- Study plans 
+- Free online or in person 2 hr resit if needed.
+- On going what's app or email support
+- Local accommodation is available at £30 a night.
+
+---
 {{% title4 "Online training" %}}  
 
 Online training can be a great alternative if you are unable to travel or take extensive time of work to visit in-person training centres. 
@@ -44,8 +56,36 @@ Online tutoring services offer convenience and flexibility tailored to your educ
 
 All clients who book a full package of online training receive free OSCE study books and study resources.
 
-{{% title4 "Support for 2nd and 3rd Attempts" %}}  
+{{% title5 "Online package" %}} 
+
+- 8 x 2hr online sessions starting at **£450**
+- 3 session to cover APIE
+- 5 sessions to cover clinical skills
+- Access to 4 PDF OSCE study books with full scenarios and videos
+- Study plans 
+- Ongoing what's app or email support 
+- Free 2 hr resit session if needed
+- Flexible sessions and evening times available to fit around work shifts.
+
+---
+{{% title4 "Individual Services" %}}  
+
+Smaller sessions aimed at targeting specific support, available online or in-person.
+
+{{% title5 "Support for 2nd and 3rd Attempts" %}}  
 
 Whether you've independently studied or completed another course, our specialized resit support is here to help. Book a 2-hour private resit session, either online or in-person, for personalized assistance. During the session, you can ask questions, practice your stations and receive valuable feedback. This session includes feedback review, scenario practice,  station preparation to enhance your chances and confidence to be successful in passing your resit.
 
-Cost: £60 for a 2-hour one-on-one session.
+Starting at **£60** for a 2-hour one-on-one session.
+
+{{% title5 "Single Sessions for OSCE Self Review " %}} 
+
+Single 1-2hr session, book as many or as little as you as you need. Perfect if you feel confident in your study and just want to ask specific questions or practice certain areas without having to complete a full training programme.
+
+Starting at **£30 an hour**
+
+{{% title5 "Mock OSCE" %}} 
+
+10 station online or in person mock OSCE exam with feedback.
+
+Starting at **£85**
