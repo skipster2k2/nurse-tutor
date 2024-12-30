@@ -28,7 +28,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logo.png
+    image: Logo.png
     link: https://nurse-tutor.com
     # Default width/height. Uncomment if you need to change
     width: 50
@@ -152,9 +152,6 @@ params:
     - name: Akua Darkwaa
       quote: All international nurses looking for support in preparing for the OSCE should take note. I'm excited to introduce Nurse Tutor Hannah, who is truly exceptional at what she does. She makes navigating the OSCE a breeze. Her resource materials and training sessions, whether online or in person, are incredibly impactful. My experience with her was outstanding, and her support proved invaluable.
       img: Akua_Darkwaa
-  section5:
-    title: Drop us a line or two, we'd love to hear from you
-    subtitle: hannahlames@outlook.com
 
   footer:
     # Logo (from static/images/logos/___)
