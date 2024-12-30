@@ -4,7 +4,7 @@ date = 2024-12-27
 draft = false
 include_footer = true
 +++
-As well as run my tutoring business, I also post Youtube video's regularly. Here are my playlists
+As well as running my tutoring business, I also post Youtube video's regularly. Here are my playlists
 
 {{% title4 "Clinical Skills NMC OSCE playlist" %}}
 
