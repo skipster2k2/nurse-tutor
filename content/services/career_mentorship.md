@@ -16,3 +16,18 @@ Standing out amongst the competition requires preparation, confidence, and showc
 - Career mentoring and advice
 
 **From £30 per hour**
+
+
+{{% title3 "Contact me for a free 30-minute discussion." %}}
+
+<div>
+    <p class="has-text-centered mt-20">
+      <a class="button cta is-large rounded secondary-btn raised" href="tel:+447855344484">
+        Phone me
+      </a>
+    </p>
+    <p class="has-text-centered mt-20">
+      <a class="button cta is-large rounded secondary-btn raised" href="mailto:hannahlames@outlook.com">
+        Email me
+      </a>
+</div>

@@ -57,6 +57,12 @@ params:
       url: /services/academic_tutoring
     - title: Career mentorship
       url: /services/career_mentorship
+  - title: About Us
+    sublinks:
+    - title: Why Choose Tutoring?
+      url: /about_us/why_choose_tutoring
+    - title: Hannah Ames
+      url: /about_us/hannah_ames
   - title: Blog
     url: blog
 #  - title: Log in
@@ -133,7 +139,7 @@ params:
 #      icon: mobile-feed
   section3:
     title: Want to find out more?
-    subtitle: Drop me an email to discuss how I can help
+    subtitle: Contact me for a free 30 minute discussion
     buttonText1: Email me
     buttonLink1: mailto:hannahlames@outlook.com
     buttonText: Phone me
@@ -155,7 +161,7 @@ params:
 
   footer:
     # Logo (from static/images/logos/___)
-    logo: logo.png
+    logo: Logo.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -188,7 +194,7 @@ params:
         - text: Hannah Ames
           link: /
         - text: Why choose tutoring?
-          link: /
+          link: about_us/why_choose_tutoring
         - text: Devon alliance for international recruitment
           link: /
       column3:

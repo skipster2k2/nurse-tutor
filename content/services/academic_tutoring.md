@@ -24,3 +24,18 @@ One-on-one sessions tailored to address your specific academic requirements. Whe
 - Effective preparation for anatomy and physiology examinations.
 
 **Hourly rates start at only £30.  Free 30-minute discussion available for all enquires.**
+
+
+{{% title3 "Contact me for a free 30-minute discussion." %}}
+
+<div>
+    <p class="has-text-centered mt-20">
+      <a class="button cta is-large rounded secondary-btn raised" href="tel:+447855344484">
+        Phone me
+      </a>
+    </p>
+    <p class="has-text-centered mt-20">
+      <a class="button cta is-large rounded secondary-btn raised" href="mailto:hannahlames@outlook.com">
+        Email me
+      </a>
+</div>
