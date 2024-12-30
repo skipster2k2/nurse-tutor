@@ -5,8 +5,6 @@ draft = false
 include_footer = true
 +++
 
-
-
 ![Title Slide from Hannah's presentation to the Devon Alliance](/images/devon_alliance.png)
 
 {{% title4 "Nurse Tutor - Tutoring with Hannah is a recommended OSCE trainer by Devon Alliance." %}}

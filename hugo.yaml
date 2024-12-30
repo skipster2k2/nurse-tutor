@@ -65,8 +65,10 @@ params:
       url: /about_us/hannah_ames
     - title: Devon Alliance for International Recruitment
       url: /about_us/devon_alliance
-  - title: Blog
-    url: blog
+    - title: Youtube videos
+      url: /about_us/youtube
+#  - title: Blog
+#    url: blog
 #  - title: Log in
 #    url: /
 #  - title: Sign up
@@ -199,8 +201,10 @@ params:
           link: /about_us/why_choose_tutoring
         - text: Devon alliance for international recruitment
           link: /about_us/devon_alliance
-      column3:
-        title: "Blog"
-        links: 
-        - text: Latest news
-          link: blog/first
+        - text: Youtube videos
+          link: /about_us/youtube
+#      column3:
+#        title: "Blog"
+#        links:
+#        - text: Latest news
+#          link: /blog/first
