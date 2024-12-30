@@ -1,5 +1,5 @@
-baseURL: http://skipster2k2.github.io/nurse-tutor
-languageCode: en-gb
+baseURL: http://example.org
+languageCode: en-us
 title: Nurse Tutor
 
 module:
@@ -29,7 +29,7 @@ params:
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logo.png
-    link: /
+    link: https://nurse-tutor.com
     # Default width/height. Uncomment if you need to change
     width: 50
     height: 47
@@ -52,11 +52,11 @@ params:
   - title: Services
     sublinks:
     - title: International Nurses OSCE
-      url: /nurse-tutor/services/international_nurses
+      url: /services/international_nurses
     - title: BSc and NMC Nursing
-      url: /nurse-tutor/services/academic_tutoring
+      url: /services/academic_tutoring
     - title: Career mentorship
-      url: services/career_mentorship
+      url: /services/career_mentorship
   - title: Blog
     url: blog
 #  - title: Log in
