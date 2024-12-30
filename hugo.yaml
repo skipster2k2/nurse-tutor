@@ -63,6 +63,8 @@ params:
       url: /about_us/why_choose_tutoring
     - title: Hannah Ames
       url: /about_us/hannah_ames
+    - title: Devon Alliance for International Recruitment
+      url: /about_us/devon_alliance
   - title: Blog
     url: blog
 #  - title: Log in
@@ -192,11 +194,11 @@ params:
         title: "About us"
         links:
         - text: Hannah Ames
-          link: /
+          link: about_us/hannah_ames
         - text: Why choose tutoring?
           link: about_us/why_choose_tutoring
         - text: Devon alliance for international recruitment
-          link: /
+          link: about_us/devon_alliance
       column3:
         title: "Blog"
         links: 
