@@ -134,10 +134,10 @@ params:
   section3:
     title: Want to find out more?
     subtitle: Drop me an email to discuss how I can help
-    buttonText: Email me
-    buttonLink: "mailto:hannahlames@outlook.com"
-    buttonText1: Phone me
-    buttonLink1: "tel:+447855344484"
+    buttonText1: Email me
+    buttonLink1: mailto:hannahlames@outlook.com
+    buttonText: Phone me
+    buttonLink: tel:+447855344484
     image: headshot.png
   section4:
     title: Our Clients love us!
