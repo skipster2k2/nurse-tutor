@@ -131,34 +131,31 @@ params:
 #    - title: Nomad system
 #      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
 #      icon: mobile-feed
-#  section3:
-#    title: One platform
-#    subtitle: To rule them all
-#    image: illustrations/mockups/app-mockup.png
-#    buttonText: Get started
-#    buttonLink: "#"
+  section3:
+    title: Want to find out more?
+    subtitle: Drop me an email to discuss how I can help
+    buttonText: Email me
+    buttonLink: "mailto:hannahlames@outlook.com"
+    buttonText1: Phone me
+    buttonLink1: "tel:+447855344484"
+    image: headshot.png
   section4:
     title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    subtitle: Here are some of our reviews...
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
+    - name: Hannah O
+      quote: The best tutor I’ve ever had—and so affordable too! I was preparing for a resit and desperately needed guidance to ensure I passed the next time. Hannah was truly an answered prayer. She’s incredibly knowledgeable and immediately put me at ease. Together, we went through every station thoroughly, and she made sure I was fully prepared and confident. Her belief in her students is inspiring, and it gave me the boost I needed.
+      img: Hannah_Obanero
+    - name: Stephanie M
+      quote: I cannot recommend Hannah and her tutoring services enough! From tailoring content delivery to my learning needs, to creating a personalised study plan, Hannah was amazing. With her wealth of experience, support and encouragement I was able to successfully pass the Adult OSCE on my first attempt, making the difficult process of getting my PIN that much easier. Thanks again Hannah!
       img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
-      img: 3
+    - name: Akua Darkwaa
+      quote: All international nurses looking for support in preparing for the OSCE should take note. I'm excited to introduce Nurse Tutor Hannah, who is truly exceptional at what she does. She makes navigating the OSCE a breeze. Her resource materials and training sessions, whether online or in person, are incredibly impactful. My experience with her was outstanding, and her support proved invaluable.
+      img: Akua_Darkwaa
   section5:
-    title: Drop us a line or two
-    subtitle: We'd love to hear from you
-    buttonText: Send Message
-    # action: https://formspree.io/f/<form_id>
-    # method: POST
+    title: Drop us a line or two, we'd love to hear from you
+    subtitle: hannahlames@outlook.com
+
   footer:
     # Logo (from static/images/logos/___)
     logo: logo.png
