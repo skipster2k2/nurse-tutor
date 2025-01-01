@@ -1,5 +1,5 @@
 +++
-title = 'International nurse NMC OSCE preparation'
+title = 'Adult and Child International nurse NMC OSCE preparation'
 date = 2024-12-27
 draft = false
 include_footer = true
