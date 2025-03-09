@@ -21,30 +21,55 @@ All tutoring clients receive ongoing support until they have successfully passed
 
 {{% title3 "Services" %}}
 
-{{% title4 "In person training" %}} 
+{{% title4 "Online and in person training" %}} 
 
 
-One to one private in person training from my home in Plymouth, Devon.
+Online theory preparation and one to one private in person training from my home in Plymouth, Devon.
 
 Enhance your skills with hands-on practice using the full range of OSCE clinical equipment within a secure and encouraging setting. Our training offers the flexibility of booking hours tailored to your needs – whether you want a whole week or just one day. Benefit from individualized guidance, enabling you to learn at your own speed and focus on your weaker areas. Receive personalized feedback and tips to help you pass with confidence.
 
 All clients who book in-person training receive free OSCE study books and study resources.
 
-{{% title5 "In person package" %}} 
+{{% title5 "Online and in-person package 1 - £750" %}} 
 
-- 21 hours or 3 days starting at **£575**
-- One to one
-- Hands on practical training with feedback
-- Can be taken together of split into single days.
-- Includes all clinical equipment use 
-- Access to 4 OSCE study books and videos
-- Study plans 
-- Free online or in person 2 hr resit if needed.
-- On going what's app or email support
-- Local accommodation is available at £30 a night.
+- 3x 2 hour online one to one sessions APIE theory
+- 3 days of one to one clinical skills and APIE practice
+- Covers APIE and all clinical skills
+- Access to 4 study books (PDFs) + videos for as long as needed and in advance
+- Includes all clinical equipment.
+- Free 2 hour resit session if required
+- WhatsApp/email support
+- Email review and feedback for written stations
+- [Local accommodation: £35/night.](https://www.airbnb.co.uk/rooms/29704334?adults=1&amp%3Bcategory_tag=Tag%3A8678&amp%3Benable_m3_private_room=true&amp%3Blocation=Plymouth%2C%20England%2C%20United%20Kingdom&amp%3Bphoto_id=607657311&amp%3Bsearch_mode=regular_search&amp%3Bcheck_in=2024-09-01&amp%3Bcheck_out=2024-09-04&amp%3Bsource_impression_id=p3_1720940163_P3_kiMaECPosH428&amp%3Bprevious_page_section_name=1001&amp%3Bfederated_search_id=da457e9a-8d2d-431e-8b59-763e1ee57bbd&source_impression_id=p3_1741518887_P3lSsULFgXcCckuE)
 
 ---
-{{% title4 "Online training" %}}  
+
+{{% title5 "Online and in-person package 2 - £600" %}} 
+
+- 4x 2 hour online one to one sessions APIE theory
+- 2 days of one to one clinical skills practice only
+- Covers APIE and all clinical skills
+- Access to 4 study books (PDFs) + videos for as long as needed and in advance
+- Includes all clinical equipment.
+- Free 2 hour resit session if required
+- WhatsApp/email support
+- Email review and feedback for written stations
+- [Local accommodation: £35/night.](https://www.airbnb.co.uk/rooms/29704334?adults=1&amp%3Bcategory_tag=Tag%3A8678&amp%3Benable_m3_private_room=true&amp%3Blocation=Plymouth%2C%20England%2C%20United%20Kingdom&amp%3Bphoto_id=607657311&amp%3Bsearch_mode=regular_search&amp%3Bcheck_in=2024-09-01&amp%3Bcheck_out=2024-09-04&amp%3Bsource_impression_id=p3_1720940163_P3_kiMaECPosH428&amp%3Bprevious_page_section_name=1001&amp%3Bfederated_search_id=da457e9a-8d2d-431e-8b59-763e1ee57bbd&source_impression_id=p3_1741518887_P3lSsULFgXcCckuE)
+
+---
+
+{{% title5 "In person for local residents - £575" %}} 
+
+- This is an person training option for people who are
+able to attend weekly in person sessions
+- 6 x 5 hour one to one sessions weekly for 6 weeks or twice a week for 4 weeks.
+- Email review and feedback for written stations
+- Covers all APIE and clinical skills
+- Access to 4 study books (PDFs) + video for as long as needed and in advance
+- WhatsApp/email support
+
+---
+{{% title4 "Online only training" %}}  
 
 Online training can be a great alternative if you are unable to travel or take extensive time of work to visit in-person training centres. 
 
@@ -56,9 +81,9 @@ Online tutoring services offer convenience and flexibility tailored to your educ
 
 All clients who book a full package of online training receive free OSCE study books and study resources.
 
-{{% title5 "Online package" %}} 
+{{% title5 "Online package - £450" %}} 
 
-- 8 x 2hr online sessions starting at **£450**
+- 8 x 2hr online sessions
 - 3 session to cover APIE
 - 5 sessions to cover clinical skills
 - Access to 4 PDF OSCE study books with full scenarios and videos

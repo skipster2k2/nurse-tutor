@@ -1,9 +1,10 @@
 +++
-title = "Devon Alliance for International Recruitment"
+title = "Affiliates"
 date = 2024-12-27
 draft = false
 include_footer = true
 +++
+# Devon Alliance for International Recruitment
 
 ![Title Slide from Hannah's presentation to the Devon Alliance](/images/devon_alliance.png)
 

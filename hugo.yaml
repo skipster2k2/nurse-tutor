@@ -65,8 +65,8 @@ params:
       url: /about_us/why_choose_tutoring
     - title: Hannah Ames
       url: /about_us/hannah_ames
-    - title: Devon Alliance for International Recruitment
-      url: /about_us/devon_alliance
+    - title: Affiliates
+      url: /about_us/affiliates
     - title: Youtube videos
       url: /about_us/youtube
 #  - title: Blog
@@ -201,8 +201,8 @@ params:
           link: /about_us/hannah_ames
         - text: Why choose tutoring?
           link: /about_us/why_choose_tutoring
-        - text: Devon alliance for international recruitment
-          link: /about_us/devon_alliance
+        - text: Affiliates
+          link: /about_us/affiliates
         - text: Youtube videos
           link: /about_us/youtube
 #      column3:
