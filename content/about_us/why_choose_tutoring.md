@@ -11,8 +11,9 @@ International nurses must complete the NMC OSCE exam as part of the Nursing and 
 
 Recently I have had several international nurses contact me looking for tutoring and support with their 2nd and 3rd attempts after attending training centres and being disappointed with the learning experience of being sat in a classroom all day and having content directly delivered to them.
 
-As an international nurse, finding the right form of guidance and support is essential. NMC OSCE training can be hugely expensive with some courses costing over £1000 for 5 days.
+![Hannah Ames sitting on a chair facing left in her uniform](/images/picture-chair-left.jpg)
 
+As an international nurse, finding the right form of guidance and support is essential. NMC OSCE training can be hugely expensive with some courses costing over £1000 for 5 days.
  
 {{% title3 "Understanding Training vs. Tutoring" %}}
 
@@ -27,6 +28,8 @@ Here's what you can typically expect from training:
 - **Fixed Schedule:** Training sessions are normally conducted at specific times, set training weeks or dates.  This can enable you to pre-plan a long way in advance.
 - **Less Personalisation:** With a large group to manage, trainers may not have the time to focus on individual learning needs, making it harder to get targeted support for areas where you may struggle. It also means students have to move at the same pace through subjects with no opportunity to spend more time on weaker areas.
 - **Limited Practice Time and Feedback:** Due to the time constraints and number of students it can be very difficult to fit in enough practice time, and be observed in your practice and get feedback.
+
+![picture of a nurse adminstring a drug through inhalation](/images/picture-inhaled-med-side.jpg)
  
 {{% title4 "What is Tutoring?" %}}
 

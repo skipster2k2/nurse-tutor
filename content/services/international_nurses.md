@@ -19,6 +19,8 @@ I take pride in teaching you the latest evidence-based theory to assist you in p
 
 All tutoring clients receive ongoing support until they have successfully passed the NMC exam and  I am proud of my 100% pass rate and excellent reviews.
 
+![Image of a nurse doing a peak flow test](/images/picture-peak-flow.jpg)
+
 {{% title3 "Services" %}}
 
 {{% title4 "Online only training" %}} 
@@ -66,6 +68,8 @@ Online tutoring services offer convenience and flexibility tailored to your educ
 Online theory preparation and one to one private in person training from my home in Plymouth, Devon.
 
 Enhance your skills with hands-on practice using the full range of OSCE clinical equipment within a secure and encouraging setting. Our training offers the flexibility of booking hours tailored to your needs – whether you want a whole week or just one day. Benefit from individualized guidance, enabling you to learn at your own speed and focus on your weaker areas. Receive personalized feedback and tips to help you pass with confidence.
+
+![Picture of a nurse with a dummy of a child](/images/picture-child.jpg)
 
 {{% title5 "Online and in-person package 1 - £750" %}} 
 
