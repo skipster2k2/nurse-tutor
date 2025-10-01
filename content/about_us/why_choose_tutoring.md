@@ -29,7 +29,7 @@ Here's what you can typically expect from training:
 - **Less Personalisation:** With a large group to manage, trainers may not have the time to focus on individual learning needs, making it harder to get targeted support for areas where you may struggle. It also means students have to move at the same pace through subjects with no opportunity to spend more time on weaker areas.
 - **Limited Practice Time and Feedback:** Due to the time constraints and number of students it can be very difficult to fit in enough practice time, and be observed in your practice and get feedback.
 
-![picture of a nurse adminstring a drug through inhalation](/images/picture-inhaled-med-side.jpg)
+![picture of a nurse administering a drug through inhalation](/images/picture-inhaled-med-side.jpg)
  
 {{% title4 "What is Tutoring?" %}}
 
