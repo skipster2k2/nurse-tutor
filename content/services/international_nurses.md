@@ -21,138 +21,125 @@ All tutoring clients receive ongoing support until they have successfully passed
 
 ![Image of a nurse doing a peak flow test](/images/picture-peak-flow.jpg)
 
-{{% title3 "Services" %}}
+{{% title3 "OSCE training packages" %}}
 
-{{% title4 "Online only training" %}} 
-
-Online training can be a great alternative if you are unable to travel or take extensive time of work to visit in-person training centres. 
-
-Discover the various options available online, ranging from complete packages to single question-and-answer sessions. Take advantage of personalized, one-on-one online tutoring featuring direct engagement to address your questions and enhance your skills.
-
-Our sessions emphasize individual interaction and practical exercises to maximize your learning experience. Online tutoring enables you to study from home, cutting down on travel and accommodation costs, and even allows you to begin your studies before your arrival in the UK.
-
-Online tutoring services offer convenience and flexibility tailored to your educational needs. Full packages are available or just a single session can be booked.
-
-{{% title5 "Online tutoring package - £550" %}} 
-
-- 9 x 2hr online sessions
-- 4 session to cover APIE
-- 5 sessions to cover clinical skills
-- Access to the digital learning platform from sign-up until exam completion
-- Study plans 
-- Ongoing what's app or email support 
-- Free 2 hr resit session if needed
-- Flexible sessions and evening times available to fit around work shifts
-- Free 2-hr group online interview preparation session
-
----
-
-{{% title5 "Online self-study digital learning platform - £200" %}}
-
-- 3 months of access to an online digital learning platform for complete self-study.
-- All stations covered
-- 29 recorded tutorials
-- 18 recorded demonstration videos
-- Online theory workbook for all stations
-- Full APIE scenarios all stations
-- Full clinical skills for all scenarios
-- Quizzes
-- Self assessment check lists and guides
-- Evidence-based resources and UK nursing guidelines
-
----
-
-{{% title4 "Online and in person training" %}} 
-
-
-Online theory preparation and one to one private in person training from my home in Plymouth, Devon.
-
-Enhance your skills with hands-on practice using the full range of OSCE clinical equipment within a secure and encouraging setting. Our training offers the flexibility of booking hours tailored to your needs – whether you want a whole week or just one day. Benefit from individualized guidance, enabling you to learn at your own speed and focus on your weaker areas. Receive personalized feedback and tips to help you pass with confidence.
+<table>
+  <tr>
+    <th><h4>Package</h4></th>
+    <th><h4>Details<h4></th>
+    <th><h4>Price</h4></th>
+  </tr>
+  <tr>
+    <td><h5>Online self-study digital learning platform</h5></td>
+    <td>3 months of access to an online digital learning platform for complete self-study:
+      <ul>
+        <li>All stations covered</li>
+        <li>29 recorded tutorials</li>
+        <li>18 recorded demonstration videos</li>
+        <li>Online theory workbook for all stations</li>
+        <li>Full APIE scenarios all stations</li>
+        <li>Full clinical skills for all scenarios</li>
+        <li>Quizzes</li>
+        <li>Self-assessment checklists and guides</li>
+        <li>Evidence-based resources and UK nursing guidelines</li>
+      </ul>
+    </td>
+    <td><h5>£200</h5></td>
+  </tr>
+  <tr>
+    <td><h5>Full Online and Distant Learning Only</h5></td>
+    <td>
+      <ul>
+        <li>10 x 2-hr session</li>
+        <li>1 or 2 sessions a week</li>
+        <li>Covers all stations</li>
+        <li>Access to the digital learning platform from sign-up until exam completion</li>
+        <li>Weekly study plan</li>
+        <li>Access to recorded sessions</li>
+        <li>Support via WhatsApp/email</li>
+        <li>Free 2-hour resit session if needed</li>
+        <li>Free 2-hr group online interview preparation session</li>
+        <li>Flexible scheduling, including evenings.</li>
+        <li>Option to add on additional sessions or Mock OSCE</li>
+      </ul>
+    </td>
+    <td><h5>£560</h5></td>
+  </tr>
+  <tr>
+    <td><h5>Online and in person</h5></td>
+    <td>Online:
+      <ul>
+        <li>8 x 2-hr session</li>
+        <li>1 or 2 sessions a week</li>
+        <li>Covers APIE and all clinical skills</li>
+        <li>Access to the digital learning platform from sign-up until exam completion</li>
+      </ul>
+      In person:
+      <ul>
+        <li>3 days one to one hands on practice and feedback on all clinical skills and APIE run through.</li>
+      </ul>
+      Included support:
+      <ul>
+        <li>Access to recorded sessions</li>
+        <li>Support via WhatsApp/email</li>
+        <li>Free 2-hour resit session if needed</li>
+        <li>Free 2-hr group online interview preparation session</li>
+        <li>Flexible scheduling, including evenings.</li>
+        <li>Option to add on additional sessions or Mock OSCE</li>
+      </ul>
+    </td>
+    <td><h5>£988</h5></td>
+  </tr>
+  <tr>
+    <td><h5>In person for local residents</h5></td>
+    <td>This is an in person training option for people who can attend weekly in-person sessions:
+      <ul>
+        <li>6 x sessions weekly for 6 weeks or twice a week for 3 weeks</li>
+        <li>Plus 1x mock OSCE or practice session</li>
+        <li>Maximum group size 2</li>
+        <li>Access to the digital learning platform from sign-up until exam completion</li>
+        <li>Email review and feedback for written stations</li>
+        <li>Covers all APIE and clinical skills</li>
+        <li>Free 2-hr group online interview preparation session</li>
+        <li>WhatsApp/email support</li>
+      </ul>
+    </td>
+    <td><h5>£650</h5></td>
+  </tr>
+</table>
 
 ![Picture of a nurse with a dummy of a child](/images/picture-child.jpg)
 
-{{% title5 "Online and in-person package 1 - £750" %}} 
+{{% title3 "Add-on and flexible options" %}}
 
-- 3x 2 hour online one to one sessions APIE theory
-- 3 days of one to one clinical skills and APIE practice
-- Covers APIE and all clinical skills
-- Access to the digital learning platform from sign-up until exam completion
-- Includes all clinical equipment.
-- Free 2 hour resit session if required
-- WhatsApp/email support
-- Email review and feedback for written stations
-- Free 2-hr group online interview preparation session
-- [Local accommodation: £35/night.](https://www.airbnb.co.uk/rooms/29704334?adults=1&amp%3Bcategory_tag=Tag%3A8678&amp%3Benable_m3_private_room=true&amp%3Blocation=Plymouth%2C%20England%2C%20United%20Kingdom&amp%3Bphoto_id=607657311&amp%3Bsearch_mode=regular_search&amp%3Bcheck_in=2024-09-01&amp%3Bcheck_out=2024-09-04&amp%3Bsource_impression_id=p3_1720940163_P3_kiMaECPosH428&amp%3Bprevious_page_section_name=1001&amp%3Bfederated_search_id=da457e9a-8d2d-431e-8b59-763e1ee57bbd&source_impression_id=p3_1741518887_P3lSsULFgXcCckuE)
-
----
-
-{{% title5 "Online and in-person package 2 - £590" %}} 
-
-- 4x 2 hour online one to one sessions APIE theory
-- 2 days of one to one clinical skills practice only
-- Covers APIE and all clinical skills
-- Access to the digital learning platform from sign-up until exam completion
-- Includes all clinical equipment.
-- Free 2 hour resit session if required
-- WhatsApp/email support
-- Email review and feedback for written stations
-- Free 2-hr group online interview preparation session
-- [Local accommodation: £35/night.](https://www.airbnb.co.uk/rooms/29704334?adults=1&amp%3Bcategory_tag=Tag%3A8678&amp%3Benable_m3_private_room=true&amp%3Blocation=Plymouth%2C%20England%2C%20United%20Kingdom&amp%3Bphoto_id=607657311&amp%3Bsearch_mode=regular_search&amp%3Bcheck_in=2024-09-01&amp%3Bcheck_out=2024-09-04&amp%3Bsource_impression_id=p3_1720940163_P3_kiMaECPosH428&amp%3Bprevious_page_section_name=1001&amp%3Bfederated_search_id=da457e9a-8d2d-431e-8b59-763e1ee57bbd&source_impression_id=p3_1741518887_P3lSsULFgXcCckuE)
-
----
-
-{{% title5 "Online and in-person package 3 - £680" %}}
-theory and practice.
-- 2 days of hands-on clinical practice, clinical skills only.
-- Followed by 2 x 2hr online practice sessions before exam ( APIE mock or skills practice)
-- Access to the digital learning platform from sign-up until exam completion
-- Weekly study plans
-- WhatsApp/email support
-- Email review and feedback for written stations
-- Free 2-hr group online interview preparation session
-- [Local accommodation: £35/night](https://www.airbnb.co.uk/rooms/29704334?adults=1&amp%3Bcategory_tag=Tag%3A8678&amp%3Benable_m3_private_room=true&amp%3Blocation=Plymouth%2C%20England%2C%20United%20Kingdom&amp%3Bphoto_id=607657311&amp%3Bsearch_mode=regular_search&amp%3Bcheck_in=2024-09-01&amp%3Bcheck_out=2024-09-04&amp%3Bsource_impression_id=p3_1720940163_P3_kiMaECPosH428&amp%3Bprevious_page_section_name=1001&amp%3Bfederated_search_id=da457e9a-8d2d-431e-8b59-763e1ee57bbd&source_impression_id=p3_1741518887_P3lSsULFgXcCckuE)
-
----
-
-{{% title5 "In person for local residents - £600" %}} 
-
-- This is an person training option for people who are able to attend weekly in person sessions
-- 6 one to one sessions weekly for 6 weeks or twice a week for 3 weeks.
-- Email review and feedback for written stations
-- Covers all APIE and clinical skills
-- Access to the digital learning platform from sign-up until exam completion
-- WhatsApp/email support
-- Free 2-hr group online interview preparation session
-
----
-
-{{% title4 "Individual Services" %}}  
-
-Smaller sessions aimed at targeting specific support, available online or in-person.
-
-{{% title5 "Support for 2nd and 3rd Attempts" %}}  
-
-Whether you've independently studied or completed another course, our specialized resit support is here to help. Book a 2-hour private resit session, either online or in-person, for personalized assistance. During the session, you can ask questions, practice your stations and receive valuable feedback. This session includes feedback review, scenario practice,  station preparation to enhance your chances and confidence to be successful in passing your resit.
-
-Starting at **£60** for a 2-hour one-on-one session.
-
----
-
-{{% title5 "Single Sessions for OSCE Self Review " %}} 
-
-Single 1-2hr session, book as many or as little as you as you need. Perfect if you feel confident in your study and just want to ask specific questions or practice certain areas without having to complete a full training programme.
-
-Starting at **£30 an hour**
-
----
-
-{{% title5 "Mock OSCE" %}} 
-
-10 station online or in person mock OSCE exam with feedback.
-
-Starting at **£85**
-
----
+<table>
+  <tr>
+    <th><h4>Service</h4></th>
+    <th><h4>Details</h4></th>
+    <th><h4>Price</h4></th>
+  </tr>
+  <tr>
+    <td><h5>Single hourly session online</h5></td>
+    <td>Tailored 1-2 hour session to focus on specific areas. Ideal for self-review students not wanting a full training package</td>
+    <td><h5>£30 per hour</h5></td>
+  </tr>
+  <tr>
+    <td><h5>Single in-person days</h5></td>
+    <td>Tailored days to focus on specific areas, book as many as you need. Ideal for self-review students not wanting a full training package.These are practice sessions and not designed for teaching the OSCE with no prior preparation.
+    </td>
+    <td><h5>£210</h5></td>
+  </tr>
+  <tr>
+    <td><h5>Resit support sessions</h5></td>
+    <td>Specific support for resit students, 2-hour session.</td>
+    <td><h5>£60</h5></td>
+  </tr>
+  <tr>
+    <td><h5>Mock OSCE</h5></td>
+    <td>10-station mock exam online or in person with feedback.</td>
+    <td><h5>£90</h5></td>
+  </tr>
+</table>
 
 
 {{% title3 "Contact me for a free 30-minute discussion." %}}
