@@ -44,26 +44,29 @@ All tutoring clients receive ongoing support until they have successfully passed
         <li>Evidence-based resources and UK nursing guidelines</li>
       </ul>
     </td>
-    <td><h5>£200</h5></td>
+    <td><h5>£200 for 4 months</h5></td>
+    <td><h5>£180 for 3 months</h5></td>
+    <td><h5>£70 for 1 month</h5></td>
   </tr>
   <tr>
     <td><h5>Full Online and Distant Learning Only</h5></td>
     <td>
       <ul>
-        <li>10 x 2-hr session</li>
+        <li>9 x 2-hr sessions plus full 10 station mock OSCE</li>
         <li>1 or 2 sessions a week</li>
         <li>Covers all stations</li>
         <li>Access to the digital learning platform from sign-up until exam completion</li>
+        <li>Clinical skills equipment pack (UK only, to be returned on completion)</li>
         <li>Weekly study plan</li>
         <li>Access to recorded sessions</li>
         <li>Support via WhatsApp/email</li>
         <li>Free 2-hour resit session if needed</li>
         <li>Free 2-hr group online interview preparation session</li>
         <li>Flexible scheduling, including evenings.</li>
-        <li>Option to add on additional sessions or Mock OSCE</li>
+        <li>Option to add on additional sessions</li>
       </ul>
     </td>
-    <td><h5>£560</h5></td>
+    <td><h5>£575</h5></td>
   </tr>
   <tr>
     <td><h5>Online and in person</h5></td>

@@ -53,7 +53,7 @@ params:
   navbar:
   - title: Services
     sublinks:
-    - title: International Nurses OSCE
+    - title: NMC OSCE preperation
       url: /services/international_nurses
     - title: BSc and MSc Nursing
       url: /services/academic_tutoring
