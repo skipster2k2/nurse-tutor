@@ -44,9 +44,10 @@ All tutoring clients receive ongoing support until they have successfully passed
         <li>Evidence-based resources and UK nursing guidelines</li>
       </ul>
     </td>
-    <td><h5>£200 for 4 months</h5></td>
-    <td><h5>£180 for 3 months</h5></td>
-    <td><h5>£70 for 1 month</h5></td>
+    <td>
+      <h5>£200 for 4 months</h5>
+      <h5>£180 for 3 months</h5>
+      <h5>£70 for 1 month</h5>
   </tr>
   <tr>
     <td><h5>Full Online and Distant Learning Only</h5></td>
@@ -130,7 +131,7 @@ All tutoring clients receive ongoing support until they have successfully passed
     <td><h5>Single in-person days</h5></td>
     <td>Tailored days to focus on specific areas, book as many as you need. Ideal for self-review students not wanting a full training package.These are practice sessions and not designed for teaching the OSCE with no prior preparation.
     </td>
-    <td><h5>£210</h5></td>
+    <td><h5>£250</h5></td>
   </tr>
   <tr>
     <td><h5>Resit support sessions</h5></td>
